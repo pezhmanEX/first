@@ -240,9 +240,9 @@ function create_config( )
     "admin",
     "link.pv",
     },
-    sudo_users = {164059631},--Sudo users
+    sudo_users = {123649999},--Sudo users
     disabled_channels = {},
-    realm = {105510554},--Realms Id
+    realm = {101344959},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[PokeRfaCe 
     is a private bot for mrbangi 
